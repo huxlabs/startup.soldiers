@@ -1,0 +1,14 @@
+:root {
+  --color-primary: #152238;
+  --color-secondary: #b8252b;
+  --color-light: #f5f5f5;
+}
+
+html {
+  font-size: 10px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}

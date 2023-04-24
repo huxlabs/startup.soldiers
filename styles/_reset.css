@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button, input, select, textarea {
+  border: none;
+  outline: none;
+  font-family: inherit;
+
+  border-radius: 0.5rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+
