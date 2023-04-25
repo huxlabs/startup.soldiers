@@ -1,5 +1,5 @@
 const FORMSUBMIT_URL = 'https://formsubmit.co/ajax/';
-const EMAIL_STRING = 'chris.m.huxley@gmail.com';
+const EMAIL_STRING = '071c5bb3b9fa6359637441e9d65dca26';
 const URL = `${FORMSUBMIT_URL}${EMAIL_STRING}`;
 const SUCCESS_MESSAGE = 'Thank you for reaching out! We\'ll get back with you shortly.';
 
